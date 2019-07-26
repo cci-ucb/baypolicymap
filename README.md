@@ -1,3 +1,11 @@
+# Bay Area Policies Map
+
+This is the codebase for the Bay Area Policy Map on the [Urban Displacement Website](https://www.urbandisplacement.org/policy-tools/bay-area). 
+
+To update the map data, head over to the [baypolicydata repository](https://github.com/cci-ucb/baypolicydata) and edit the mapData.json file according to the [How-To Guide](https://docs.google.com/document/d/1RJZqvh8KutwEq-mzpllTQprX-vrOD3NCG4ehcwSXzXc/edit). 
+
+## Structure and Deployment Info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
